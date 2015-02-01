@@ -1,4 +1,4 @@
-package com.apogee.characteranalyzer;
+package com.github.glfrazier.keyboard.characteranalyzer;
 
 import java.io.FileInputStream;
 import java.io.IOException;
